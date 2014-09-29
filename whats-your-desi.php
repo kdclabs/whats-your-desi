@@ -47,7 +47,7 @@ function whats_your_desi_shortcode( $atts ) {
 	);
 	
 	// Code
-	$whatsyourdesi_form = '<form action=""http://meradesi.in/portal/?ccce=domainchecker" method="post">
+	$whatsyourdesi_form = '<form action="http://meradesi.in/portal/?ccce=domainchecker" method="post">
 	<input type="hidden" name="token" value="4750546117a8299e56e1663e7f3d5ff9e8299bc9">
 	<input type="hidden" name="direct" value="true">
 	<input type="hidden" name="select" value=".desi">
