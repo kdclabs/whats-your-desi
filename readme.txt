@@ -14,6 +14,8 @@ The new domain name for Proud Desis from the Indian sub-continent and around the
 
 No settings required, simply use the shortcode [whatsyourdesi] and done, the registration box will be populated.
 
+This plugin connects with meradesi.in to take your registration forward so you can get all the available domains. You may also choose to directly visit meradesi.in for more details and also get your domains directly.
+
 = Coming Soon =
 Shortcode option for invert colors.
 
